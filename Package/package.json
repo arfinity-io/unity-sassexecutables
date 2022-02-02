@@ -1,0 +1,17 @@
+{
+  "name": "io.arfinity.unity.packages.sassexecutables",
+  "displayName": "arfinity - SassExecutables",
+  "version": "1.0.2",
+  "unity": "2020.2",
+  "description": "SassExecutables for Unity",
+  "keywords": [
+    "unity",
+    "unity3d",
+    "upm",
+    "arfinity",
+    "utility"
+  ],
+  "license": "MIT",
+  "author": "arfinity GmbH (https://arfinity.io)",
+  "devDependencies": {}
+}

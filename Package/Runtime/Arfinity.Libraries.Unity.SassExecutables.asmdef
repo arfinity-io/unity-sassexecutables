@@ -1,0 +1,15 @@
+{
+    "name": "Arfinity.Libraries.Unity.SassExecutables",
+    "rootNamespace": "Arfinity.Libraries.Unity.SassExecutables",
+    "references": [
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
